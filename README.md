@@ -43,7 +43,6 @@ Books I'd potentially like to acquire.
 |      | Ness, Patrick            |                      | A Monster Calls                                                                         |
 |      | Niffenegger, Audrey      |                      | The Time Traveler's Wife                                                                |
 |      | O'Farrell, Maggie        |                      | Hamnet                                                                                  |
-|      | O'Neill, Louise          |                      | Asking For It                                                                           |
 |      | Pennac, Daniel           |                      | The Rights of the Reader                                                                |
 |      | Rijneveld, Marieke Lucas | Hutchison, Michele   | The Discomfort of Evening                                                               |
 |      | Roald Dahl, Roald        |                      | James and the Giant Peach                                                               |
@@ -68,12 +67,9 @@ Books I'd potentially like to acquire.
 | 2018 | Bracht, Mary Lynn        |                      | White Chrysanthemum                                                                     |
 | 2018 | Hawkins, Paula           |                      | Into the Water                                                                          |
 | 2018 | Kushner, Rachel          |                      | The Mars Room                                                                           |
-| 2018 | Miller, Madeline         |                      | Circe                                                                                   |
-| 2018 | Moshfegh, Ottessa        |                      | My Year of Rest and Relaxation                                                          |
 | 2018 | Olafsdóttir, Auður Ava   | Brian FitzGibbon     | Hotel Silence                                                                           |
 | 2018 | Powers, Richard          |                      | The Overstory                                                                           |
 | 2019 | Garrett, Camryn          |                      | Full Disclosure                                                                         |
-| 2019 | Kawaguchi, Toshikazu     | Geoffrey Trousselot  | Before the Coffee Gets Cold                                                             |
 | 2019 | Powers, Richard          |                      | The Overstory                                                                           |
 | 2020 | Abulhawa, Susan          |                      | Against the Loveless World                                                              |
 | 2020 | Henry, Emily             |                      | Beach Read                                                                              |
@@ -100,7 +96,6 @@ Books I'd potentially like to acquire.
 |      | MacNeice, Louis          |                      | Autumn Journal                                                                          |
 |      | Nelson, Maggie           |                      | On Freedom: Four Songs of Care and Constraint                                           |
 |      | Palmer, Amanda           |                      | The Art of Asking; or, How I Learned to Stop Worrying and Let People Help               |
-|      | Tolkien, J.R.R.          |                      | Beowulf: A Translation and Commentary, together with Sellic Spell                       |
 
 ## Non-fiction
 
@@ -145,7 +140,6 @@ Books I'd potentially like to acquire.
 ## Other items to sort out
 
 * The gender games
-* Cheryl Strayed (poetry)
 * Stay in your lane?
 * Harry Leslie Smith
 * Documentary: The 13th (about prison)
