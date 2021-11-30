@@ -59,6 +59,7 @@ Books I'd potentially like to acquire.
 |      | Wegelius, Jakob          |                      | The Murderer's Ape                                                                      |
 |      | Williams, Lara           |                      | Treats                                                                                  |
 |      | Woolf, Virginia          |                      | Flush                                                                                   |
+|      | Woolf, Virginia          |                      | On Being Ill                                                                            |
 |      | Zusak, Markus            |                      | The Book Thief                                                                          |
 |      | du Maurier, Daphne       |                      | Rebecca                                                                                 |
 |      | le Carré, John           |                      | The Constant Gardener                                                                   |
