@@ -7,7 +7,6 @@ Books I'd potentially like to acquire.
 | ---- | ------------------------ | -------------------- | --------------------------------------------------------------------------------------- |
 |      | Brontë, Anne             |                      | The Tenant of Wildfell Hall                                                             |
 |      | Clarke, Arthur C.        |                      | Rendezvous with Rama (Rama, #1)                                                         |
-|      | Dunn, Mark               |                      | Ella Minnow Pea: A Novel in Letters                                                     |
 |      | Dunthorne, Joe           |                      | The Adulterants                                                                         |
 |      | Eugenides, Jeffrey       |                      | The Virgin Suicides                                                                     |
 |      | Extence, Gavin           |                      | The Empathy Problem                                                                     |
