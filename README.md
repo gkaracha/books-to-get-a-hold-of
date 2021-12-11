@@ -31,17 +31,19 @@ Books I'd potentially like to acquire.
 |      | Logan, Kirsty            |                      | A Portable Shelter                                                                      |
 |      | Logan, Kirsty            |                      | The Grace Keepers                                                                       |
 |      | Lourey, Jess             |                      | Unspeakable Things                                                                      |
-|      | Lovecraft, H.P.          |                      | The Call of Cthulhu                                                                     |
 |      | Lovecraft, H.P.          |                      | At the Mountains of Madness                                                             |
+|      | Lovecraft, H.P.          |                      | The Call of Cthulhu                                                                     |
 |      | Maguire, Gregory         |                      | Wicked: The Life and Times of the Wicked Witch of the West                              |
 |      | Malerman, Josh           |                      | Bird Box (Bird Box, #1)                                                                 |
 |      | Mandel, Emily St. John   |                      | Station Eleven                                                                          |
 |      | Martel, Yann             |                      | Life of Pi                                                                              |
 |      | Morrison, Toni           |                      | Beloved                                                                                 |
+|      | Munduruku, Daniel        | Springer, Jane       | Amazonia: Indigenous Tales from Brazil                                                  |
 |      | Nabokov, Vladimir        |                      | Lolita                                                                                  |
 |      | Ness, Patrick            |                      | A Monster Calls                                                                         |
 |      | Niffenegger, Audrey      |                      | The Time Traveler's Wife                                                                |
 |      | O'Farrell, Maggie        |                      | Hamnet                                                                                  |
+|      | Penn, Robert             |                      | The Man Who Made Things Out of Trees                                                    |
 |      | Pennac, Daniel           |                      | The Rights of the Reader                                                                |
 |      | Rijneveld, Marieke Lucas | Hutchison, Michele   | The Discomfort of Evening                                                               |
 |      | Roald Dahl, Roald        |                      | James and the Giant Peach                                                               |
