@@ -1,4 +1,5 @@
 # books-to-get-a-hold-of
+
 Books I'd potentially like to acquire.
 
 ## Fiction
@@ -14,6 +15,7 @@ Books I'd potentially like to acquire.
 |      | Extence, Gavin           |                      | The Mirror World of Melody Black                                                        |
 |      | Flynn, Gillian           |                      | Gone Girl                                                                               |
 |      | Gaiman, Neil             |                      | Coraline                                                                                |
+|      | García Márquez, Gabriel  | Rabassa, Gregory     | One Hundred Years of Solitude                                                           |
 |      | Hamid, Mohsin            |                      | The Reluctant Fundamentalist                                                            |
 |      | Hanff, Helene            |                      | 84, Charing Cross Road                                                                  |
 |      | Harris, Zakiya Dalila    |                      | The Other Black Girl                                                                    |
@@ -86,7 +88,7 @@ Books I'd potentially like to acquire.
 
 | YEAR | AUTHOR                   | TRANSLATOR           | TITLE                                                                                   |
 | ---- | ------------------------ | -------------------- | --------------------------------------------------------------------------------------- |
-|      |                          | Hatto, A.T.          | The Nibelungenlied                                                                          |
+|      |                          | Hatto, A.T.          | The Nibelungenlied                                                                      |
 |      |                          | Heaney, Seamus       | Beowulf                                                                                 |
 |      |                          | Tolkien, J.R.R.      | Beowulf                                                                                 |
 |      | Bechdel, Alison          |                      | Fun Home: A Family Tragicomic                                                           |
@@ -139,10 +141,7 @@ Books I'd potentially like to acquire.
 |      | Όμηρος                   |                      | Ομήρου Οδύσσεια                                                                         |
 
 ## Authors to look into
-* Mary Oliver [poet]
 * Franz Kafka
-* Gabriel Garcia Marquez
-* Mark Haddon
 
 ## Other items to sort out
 
