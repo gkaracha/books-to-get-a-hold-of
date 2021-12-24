@@ -86,18 +86,22 @@ Books I'd potentially like to acquire.
 
 | YEAR | AUTHOR                   | TRANSLATOR           | TITLE                                                                                   |
 | ---- | ------------------------ | -------------------- | --------------------------------------------------------------------------------------- |
-|      | Tolentino, Jia           |                      | Trick Mirror: Reflections on Self-Delusion                                              |
 |      | Bechdel, Alison          |                      | Fun Home: A Family Tragicomic                                                           |
 |      | Bell, Jo & Commane, Jane |                      | How to be a Poet                                                                        |
 |      | Darwish, Mahmoud         |                      | In the Presence of Absence                                                              |
 |      | Denbigh, Tom             |                      | ...and then she ate him                                                                 |
 |      | Eghbal, Nadia            |                      | Working in Public: The Making and Maintenance of Open Source Software                   |
+|      | Heaney, Seamus           |                      | Beowulf                                                                                 |
 |      | Hudson, Kerry            |                      | Lowborn: Growing Up, Getting Away and Returning to Britain's Poorest Towns              |
 |      | Kalanithi, Paul          |                      | When Breath Becomes Air                                                                 |
 |      | Lorde, Audre             |                      | Your Silence Will Not Protect You: Essays and Poems                                     |
 |      | MacNeice, Louis          |                      | Autumn Journal                                                                          |
 |      | Nelson, Maggie           |                      | On Freedom: Four Songs of Care and Constraint                                           |
 |      | Palmer, Amanda           |                      | The Art of Asking; or, How I Learned to Stop Worrying and Let People Help               |
+|      | Tolentino, Jia           |                      | Trick Mirror: Reflections on Self-Delusion                                              |
+|      | Tolkien, J.R.R.          |                      | Beowulf                                                                                 |
+|      | Tolkien, J.R.R.          |                      | Leaf by Niggle                                                                          |
+|      | Tolkien, J.R.R.          |                      | The Adventures of Tom Bombadil                                                          |
 
 ## Non-fiction
 
