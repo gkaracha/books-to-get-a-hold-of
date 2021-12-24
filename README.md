@@ -9,13 +9,10 @@ Books I'd potentially like to acquire.
 |      | Brontë, Anne             |                      | The Tenant of Wildfell Hall                                                             |
 |      | Clarke, Arthur C.        |                      | Rendezvous with Rama (Rama, #1)                                                         |
 |      | Dunthorne, Joe           |                      | The Adulterants                                                                         |
-|      | Eugenides, Jeffrey       |                      | The Virgin Suicides                                                                     |
 |      | Extence, Gavin           |                      | The Empathy Problem                                                                     |
 |      | Extence, Gavin           |                      | The End of Time                                                                         |
-|      | Extence, Gavin           |                      | The Mirror World of Melody Black                                                        |
 |      | Flynn, Gillian           |                      | Gone Girl                                                                               |
 |      | Gaiman, Neil             |                      | Coraline                                                                                |
-|      | García Márquez, Gabriel  | Rabassa, Gregory     | One Hundred Years of Solitude                                                           |
 |      | Hamid, Mohsin            |                      | The Reluctant Fundamentalist                                                            |
 |      | Hanff, Helene            |                      | 84, Charing Cross Road                                                                  |
 |      | Harris, Zakiya Dalila    |                      | The Other Black Girl                                                                    |
@@ -25,6 +22,7 @@ Books I'd potentially like to acquire.
 |      | Homer                    |                      | The Odyssey                                                                             |
 |      | Hosseini, Khaled         |                      | The Kite Runner                                                                         |
 |      | Huxley, Aldous           |                      | Brave New World                                                                         |
+|      | Huxley, Aldous           |                      | Island                                                                                  |
 |      | Kafka, Franz             |                      | The Metamorphosis                                                                       |
 |      | Kang, Han                | Smith, Deborah       | The Vegetarian                                                                          |
 |      | Le Guin, Ursula K.       |                      | Four Ways to Forgiveness                                                                |
@@ -41,11 +39,9 @@ Books I'd potentially like to acquire.
 |      | Martel, Yann             |                      | Life of Pi                                                                              |
 |      | Morrison, Toni           |                      | Beloved                                                                                 |
 |      | Munduruku, Daniel        | Springer, Jane       | Amazonia: Indigenous Tales from Brazil                                                  |
-|      | Nabokov, Vladimir        |                      | Lolita                                                                                  |
 |      | Ness, Patrick            |                      | A Monster Calls                                                                         |
 |      | Niffenegger, Audrey      |                      | The Time Traveler's Wife                                                                |
 |      | O'Farrell, Maggie        |                      | Hamnet                                                                                  |
-|      | Penn, Robert             |                      | The Man Who Made Things Out of Trees                                                    |
 |      | Pennac, Daniel           |                      | The Rights of the Reader                                                                |
 |      | Rijneveld, Marieke Lucas | Hutchison, Michele   | The Discomfort of Evening                                                               |
 |      | Roald Dahl, Roald        |                      | James and the Giant Peach                                                               |
@@ -56,6 +52,7 @@ Books I'd potentially like to acquire.
 |      | Strugatsky, Boris & Strugatsky, Arkady |        | Monday Starts on Saturday                                                               |
 |      | Tan, Shaun               |                      | Tales from Outer Suburbia                                                               |
 |      | Thomas, Angie            |                      | The Hate You Give                                                                       |
+|      | Tolstoy, Leo             | Pevear & Volokhonsky | The Death of Ivan Ilyich                                                                |
 |      | Verne, Jules             |                      | A Journey to the Center of the Earth                                                    |
 |      | Vonnegut Jr., Kurt       |                      | Slaughterhouse-Five                                                                     |
 |      | Walton, Jo               |                      | The Just City (Thessaly, #1)                                                            |
@@ -88,10 +85,7 @@ Books I'd potentially like to acquire.
 
 | YEAR | AUTHOR                   | TRANSLATOR           | TITLE                                                                                   |
 | ---- | ------------------------ | -------------------- | --------------------------------------------------------------------------------------- |
-|      |                          | Hatto, A.T.          | The Nibelungenlied                                                                      |
-|      |                          | Heaney, Seamus       | Beowulf                                                                                 |
 |      |                          | Tolkien, J.R.R.      | Beowulf                                                                                 |
-|      | Bechdel, Alison          |                      | Fun Home: A Family Tragicomic                                                           |
 |      | Bell, Jo & Commane, Jane |                      | How to be a Poet                                                                        |
 |      | Darwish, Mahmoud         |                      | In the Presence of Absence                                                              |
 |      | Denbigh, Tom             |                      | ...and then she ate him                                                                 |
@@ -102,7 +96,7 @@ Books I'd potentially like to acquire.
 |      | MacNeice, Louis          |                      | Autumn Journal                                                                          |
 |      | Nelson, Maggie           |                      | On Freedom: Four Songs of Care and Constraint                                           |
 |      | Palmer, Amanda           |                      | The Art of Asking; or, How I Learned to Stop Worrying and Let People Help               |
-|      | Tolentino, Jia           |                      | Trick Mirror: Reflections on Self-Delusion                                              |
+|      | Penn, Robert             |                      | The Man Who Made Things Out of Trees                                                    |
 |      | Tolkien, J.R.R.          |                      | Leaf by Niggle                                                                          |
 |      | Tolkien, J.R.R.          |                      | The Adventures of Tom Bombadil                                                          |
 
@@ -140,7 +134,20 @@ Books I'd potentially like to acquire.
 |      | Όμηρος                   |                      | Ομήρου Ιλιάδα                                                                           |
 |      | Όμηρος                   |                      | Ομήρου Οδύσσεια                                                                         |
 
+## On the way
+
+| YEAR | AUTHOR                   | TRANSLATOR           | TITLE                                                                                   |
+| ---- | ------------------------ | -------------------- | --------------------------------------------------------------------------------------- |
+|      |                          | Hatto, A.T.          | The Nibelungenlied                                                                      |
+|      |                          | Heaney, Seamus       | Beowulf                                                                                 |
+|      | Bechdel, Alison          |                      | Fun Home: A Family Tragicomic                                                           |
+|      | Eugenides, Jeffrey       |                      | The Virgin Suicides                                                                     |
+|      | Extence, Gavin           |                      | The Mirror World of Melody Black                                                        |
+|      | García Márquez, Gabriel  | Rabassa, Gregory     | One Hundred Years of Solitude                                                           |
+|      | Nabokov, Vladimir        |                      | Lolita                                                                                  |
+
 ## Authors to look into
+
 * Franz Kafka
 
 ## Other items to sort out
