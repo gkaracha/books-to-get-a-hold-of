@@ -86,6 +86,7 @@ Books I'd potentially like to acquire.
 
 | YEAR | AUTHOR                   | TRANSLATOR           | TITLE                                                                                   |
 | ---- | ------------------------ | -------------------- | --------------------------------------------------------------------------------------- |
+|      |                          | Hatto, A.T.          | Nibelungenlied                                                                          |
 |      | Bechdel, Alison          |                      | Fun Home: A Family Tragicomic                                                           |
 |      | Bell, Jo & Commane, Jane |                      | How to be a Poet                                                                        |
 |      | Darwish, Mahmoud         |                      | In the Presence of Absence                                                              |
