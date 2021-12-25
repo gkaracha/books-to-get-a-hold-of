@@ -15,7 +15,6 @@ Books I'd potentially like to acquire.
 |      | Gaiman, Neil             |                      | Coraline                                                                                |
 |      | Hamid, Mohsin            |                      | The Reluctant Fundamentalist                                                            |
 |      | Hanff, Helene            |                      | 84, Charing Cross Road                                                                  |
-|      | Harris, Zakiya Dalila    |                      | The Other Black Girl                                                                    |
 |      | Heti, Sheila             |                      | How Should a Person Be?                                                                 |
 |      | Hoang, Helen             |                      | The Heart Principle                                                                     |
 |      | Homer                    |                      | The Iliad                                                                               |
@@ -68,7 +67,6 @@ Books I'd potentially like to acquire.
 | 2018 | Bracht, Mary Lynn        |                      | White Chrysanthemum                                                                     |
 | 2018 | Hawkins, Paula           |                      | Into the Water                                                                          |
 | 2018 | Kushner, Rachel          |                      | The Mars Room                                                                           |
-| 2018 | Olafsdóttir, Auður Ava   | Brian FitzGibbon     | Hotel Silence                                                                           |
 | 2018 | Powers, Richard          |                      | The Overstory                                                                           |
 | 2019 | Garrett, Camryn          |                      | Full Disclosure                                                                         |
 | 2019 | Powers, Richard          |                      | The Overstory                                                                           |
@@ -76,10 +74,15 @@ Books I'd potentially like to acquire.
 | 2020 | Henry, Emily             |                      | Beach Read                                                                              |
 | 2020 | MacMahon, Kathleen       |                      | Nothing But Blue Sky                                                                    |
 | 2021 | Dockrill, Laura          |                      | The Lipstick [children's]                                                               |
-| 2021 | Fuller, Claire           |                      | Unsettled Ground                                                                        |
 | 2021 | Lancet-Grant, Jodie      |                      | The Pirate Mums [children's]                                                            |
-| 2021 | McConaghy, Charlotte     |                      | Once There Were Wolves                                                                  |
 | 2021 | Weir, Andy               |                      | Project Hail Mary                                                                       |
+
+## Fiction (up next)
+
+| 2018 | Olafsdóttir, Auður Ava   | Brian FitzGibbon     | Hotel Silence                                                                           |
+| 2021 | Fuller, Claire           |                      | Unsettled Ground                                                                        |
+| 2021 | Harris, Zakiya Dalila    |                      | The Other Black Girl                                                                    |
+| 2021 | McConaghy, Charlotte     |                      | Once There Were Wolves                                                                  |
 
 ## Non-fiction (poetry/essays/memoirs/autobiographies)
 
