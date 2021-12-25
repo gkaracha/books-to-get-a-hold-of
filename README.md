@@ -79,6 +79,8 @@ Books I'd potentially like to acquire.
 
 ## Fiction (up next)
 
+| YEAR | AUTHOR                   | TRANSLATOR           | TITLE                                                                                   |
+| ---- | ------------------------ | -------------------- | --------------------------------------------------------------------------------------- |
 | 2018 | Olafsdóttir, Auður Ava   | Brian FitzGibbon     | Hotel Silence                                                                           |
 | 2021 | Fuller, Claire           |                      | Unsettled Ground                                                                        |
 | 2021 | Harris, Zakiya Dalila    |                      | The Other Black Girl                                                                    |
