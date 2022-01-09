@@ -49,6 +49,7 @@ Books I'd potentially like to acquire.
 |      | Semple, Maria            |                      | Where'd You Go, Bernadette                                                              |
 |      | Sheers, Owen             |                      | Resistance                                                                              |
 |      | Silverstein, Shel        |                      | The Giving Tree                                                                         |
+|      | Snicket, Lemony          |                      | The Bad Beginning (A Series of Unfortunate Events #1) |                                 |
 |      | Strugatsky, Boris & Strugatsky, Arkady |        | Monday Starts on Saturday                                                               |
 |      | Tan, Shaun               |                      | Tales from Outer Suburbia                                                               |
 |      | Thomas, Angie            |                      | The Hate You Give                                                                       |
@@ -109,6 +110,7 @@ Books I'd potentially like to acquire.
 |      | Penn, Robert             |                      | The Man Who Made Things Out of Trees                                                    |
 |      | Tolkien, J.R.R.          |                      | Leaf by Niggle                                                                          |
 |      | Tolkien, J.R.R.          |                      | The Adventures of Tom Bombadil                                                          |
+|      | Bushe, Fran              |                      | My Broken Vagina: One Woman's Quest to Fix Her Sex Life, and Yours                      |
 
 ## Non-fiction
 
