@@ -139,18 +139,6 @@ Books I'd potentially like to acquire.
 |      | Όμηρος                   |                      | Ομήρου Ιλιάδα                                                                           |
 |      | Όμηρος                   |                      | Ομήρου Οδύσσεια                                                                         |
 
-## On the way
-
-| YEAR | AUTHOR                   | TRANSLATOR           | TITLE                                                                                   |
-| ---- | ------------------------ | -------------------- | --------------------------------------------------------------------------------------- |
-|      |                          | Hatto, A.T.          | The Nibelungenlied                                                                      |
-|      |                          | Heaney, Seamus       | Beowulf                                                                                 |
-|      | Bechdel, Alison          |                      | Fun Home: A Family Tragicomic                                                           |
-|      | Eugenides, Jeffrey       |                      | The Virgin Suicides                                                                     |
-|      | Extence, Gavin           |                      | The Mirror World of Melody Black                                                        |
-|      | García Márquez, Gabriel  | Rabassa, Gregory     | One Hundred Years of Solitude                                                           |
-|      | Nabokov, Vladimir        |                      | Lolita                                                                                  |
-
 ## Authors to look into
 
 * Franz Kafka
