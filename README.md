@@ -37,6 +37,7 @@ Books I'd potentially like to acquire.
 |      | Mandel, Emily St. John   |                      | Station Eleven                                                                          |
 |      | Martel, Yann             |                      | Life of Pi                                                                              |
 |      | Morrison, Toni           |                      | Beloved                                                                                 |
+|      | Morrison, Toni           |                      | Sula                                                                                    |
 |      | Munduruku, Daniel        | Springer, Jane       | Amazonia: Indigenous Tales from Brazil                                                  |
 |      | Ness, Patrick            |                      | A Monster Calls                                                                         |
 |      | Niffenegger, Audrey      |                      | The Time Traveler's Wife                                                                |
@@ -55,10 +56,10 @@ Books I'd potentially like to acquire.
 |      | Verne, Jules             |                      | A Journey to the Center of the Earth                                                    |
 |      | Vonnegut Jr., Kurt       |                      | Slaughterhouse-Five                                                                     |
 |      | Walton, Jo               |                      | The Just City (Thessaly, #1)                                                            |
-|      | Wegelius, Jakob          |                      | The Murderer's Ape                                                                      |
 |      | Williams, Lara           |                      | Treats                                                                                  |
 |      | Woolf, Virginia          |                      | Flush                                                                                   |
 |      | Woolf, Virginia          |                      | On Being Ill                                                                            |
+|      | Wright, Richard          |                      | Craven Place                                                                            |
 |      | Zusak, Markus            |                      | The Book Thief                                                                          |
 |      | du Maurier, Daphne       |                      | Rebecca                                                                                 |
 |      | le Carré, John           |                      | The Constant Gardener                                                                   |
@@ -68,6 +69,7 @@ Books I'd potentially like to acquire.
 | 2018 | Hawkins, Paula           |                      | Into the Water                                                                          |
 | 2018 | Kushner, Rachel          |                      | The Mars Room                                                                           |
 | 2018 | Powers, Richard          |                      | The Overstory                                                                           |
+| 2018 | Sanderson, Brandon       |                      | Skyward                                                                                 |
 | 2019 | Garrett, Camryn          |                      | Full Disclosure                                                                         |
 | 2019 | Powers, Richard          |                      | The Overstory                                                                           |
 | 2020 | Abulhawa, Susan          |                      | Against the Loveless World                                                              |
@@ -81,6 +83,7 @@ Books I'd potentially like to acquire.
 
 | YEAR | AUTHOR                   | TRANSLATOR           | TITLE                                                                                   |
 | ---- | ------------------------ | -------------------- | --------------------------------------------------------------------------------------- |
+|      | Wegelius, Jakob          |                      | The Murderer's Ape                                                                      |
 | 2018 | Olafsdóttir, Auður Ava   | Brian FitzGibbon     | Hotel Silence                                                                           |
 | 2021 | Fuller, Claire           |                      | Unsettled Ground                                                                        |
 | 2021 | Harris, Zakiya Dalila    |                      | The Other Black Girl                                                                    |
@@ -91,11 +94,13 @@ Books I'd potentially like to acquire.
 | YEAR | AUTHOR                   | TRANSLATOR           | TITLE                                                                                   |
 | ---- | ------------------------ | -------------------- | --------------------------------------------------------------------------------------- |
 |      |                          | Tolkien, J.R.R.      | Beowulf                                                                                 |
+|      | Baldwin, James           |                      | The Fire Next Time                                                                      |
 |      | Bell, Jo & Commane, Jane |                      | How to be a Poet                                                                        |
 |      | Darwish, Mahmoud         |                      | In the Presence of Absence                                                              |
 |      | Denbigh, Tom             |                      | ...and then she ate him                                                                 |
 |      | Eghbal, Nadia            |                      | Working in Public: The Making and Maintenance of Open Source Software                   |
 |      | Hudson, Kerry            |                      | Lowborn: Growing Up, Getting Away and Returning to Britain's Poorest Towns              |
+|      | Hughes, Langston         |                      | I, Too, Am America                                                                      |
 |      | Kalanithi, Paul          |                      | When Breath Becomes Air                                                                 |
 |      | Lorde, Audre             |                      | Your Silence Will Not Protect You: Essays and Poems                                     |
 |      | MacNeice, Louis          |                      | Autumn Journal                                                                          |
@@ -124,6 +129,7 @@ Books I'd potentially like to acquire.
 |      | Jenkinson, Andrew        |                      | Why We Eat (Too Much): The New Science of Appetite                                      |
 |      | Krznaric, Roman          |                      | How to Find Fulfilling Work (The School of Life)                                        |
 |      | Maher, Geo               |                      | A World Without Police: How Strong Communities Make Cops Obsolete                       |
+|      | McDonald, Chine          |                      | God Is Not a White Man: And Other Revelations                                           |
 |      | Perel, Esther            |                      | Mating in Captivity: Reconciling the Erotic and the Domestic                            |
 |      | Rasmussen, Tom           |                      | First Comes Love                                                                        |
 |      | Robertson, Scott         |                      | How to Draw: Drawing and Sketching Objects and Environments from Your Imagination       |
