@@ -22,7 +22,6 @@ Books I'd potentially like to acquire.
 |      | Hosseini, Khaled         |                      | The Kite Runner                                                                         |
 |      | Huxley, Aldous           |                      | Brave New World                                                                         |
 |      | Huxley, Aldous           |                      | Island                                                                                  |
-|      | Kafka, Franz             |                      | The Metamorphosis                                                                       |
 |      | Kang, Han                | Smith, Deborah       | The Vegetarian                                                                          |
 |      | Le Guin, Ursula K.       |                      | Four Ways to Forgiveness                                                                |
 |      | Lee, Harper              |                      | To Kill a Mockingbird                                                                   |
