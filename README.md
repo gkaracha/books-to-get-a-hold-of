@@ -68,10 +68,8 @@ Books I'd potentially like to acquire.
 | 2018 | Bracht, Mary Lynn        |                      | White Chrysanthemum                                                                     |
 | 2018 | Hawkins, Paula           |                      | Into the Water                                                                          |
 | 2018 | Kushner, Rachel          |                      | The Mars Room                                                                           |
-| 2018 | Powers, Richard          |                      | The Overstory                                                                           |
 | 2018 | Sanderson, Brandon       |                      | Skyward                                                                                 |
 | 2019 | Garrett, Camryn          |                      | Full Disclosure                                                                         |
-| 2019 | Powers, Richard          |                      | The Overstory                                                                           |
 | 2020 | Abulhawa, Susan          |                      | Against the Loveless World                                                              |
 | 2020 | Henry, Emily             |                      | Beach Read                                                                              |
 | 2020 | MacMahon, Kathleen       |                      | Nothing But Blue Sky                                                                    |
@@ -85,6 +83,7 @@ Books I'd potentially like to acquire.
 | ---- | ------------------------ | -------------------- | --------------------------------------------------------------------------------------- |
 |      | Wegelius, Jakob          |                      | The Murderer's Ape                                                                      |
 | 2018 | Olafsdóttir, Auður Ava   | Brian FitzGibbon     | Hotel Silence                                                                           |
+| 2018 | Powers, Richard          |                      | The Overstory                                                                           |
 | 2021 | Fuller, Claire           |                      | Unsettled Ground                                                                        |
 | 2021 | Harris, Zakiya Dalila    |                      | The Other Black Girl                                                                    |
 | 2021 | McConaghy, Charlotte     |                      | Once There Were Wolves                                                                  |
