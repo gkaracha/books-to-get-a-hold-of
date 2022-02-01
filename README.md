@@ -56,7 +56,6 @@ Books I'd potentially like to acquire.
 |      | Verne, Jules             |                      | A Journey to the Center of the Earth                                                    |
 |      | Vonnegut Jr., Kurt       |                      | Slaughterhouse-Five                                                                     |
 |      | Walton, Jo               |                      | The Just City (Thessaly, #1)                                                            |
-|      | Williams, Lara           |                      | Treats                                                                                  |
 |      | Woolf, Virginia          |                      | Flush                                                                                   |
 |      | Woolf, Virginia          |                      | On Being Ill                                                                            |
 |      | Wright, Richard          |                      | Craven Place                                                                            |
@@ -68,25 +67,36 @@ Books I'd potentially like to acquire.
 | 2018 | Bracht, Mary Lynn        |                      | White Chrysanthemum                                                                     |
 | 2018 | Hawkins, Paula           |                      | Into the Water                                                                          |
 | 2018 | Kushner, Rachel          |                      | The Mars Room                                                                           |
-| 2018 | Sanderson, Brandon       |                      | Skyward                                                                                 |
 | 2019 | Garrett, Camryn          |                      | Full Disclosure                                                                         |
 | 2020 | Abulhawa, Susan          |                      | Against the Loveless World                                                              |
-| 2020 | Henry, Emily             |                      | Beach Read                                                                              |
 | 2020 | MacMahon, Kathleen       |                      | Nothing But Blue Sky                                                                    |
 | 2021 | Dockrill, Laura          |                      | The Lipstick [children's]                                                               |
 | 2021 | Lancet-Grant, Jodie      |                      | The Pirate Mums [children's]                                                            |
 | 2021 | Weir, Andy               |                      | Project Hail Mary                                                                       |
 
-## Fiction (up next)
+## Up Next
 
 | YEAR | AUTHOR                   | TRANSLATOR           | TITLE                                                                                   |
 | ---- | ------------------------ | -------------------- | --------------------------------------------------------------------------------------- |
-|      | Wegelius, Jakob          |                      | The Murderer's Ape                                                                      |
-| 2018 | Olafsdóttir, Auður Ava   | Brian FitzGibbon     | Hotel Silence                                                                           |
+|      | Williams, Lara           |                      | Treats                                                                                  |
 | 2018 | Powers, Richard          |                      | The Overstory                                                                           |
-| 2021 | Fuller, Claire           |                      | Unsettled Ground                                                                        |
-| 2021 | Harris, Zakiya Dalila    |                      | The Other Black Girl                                                                    |
+| 2021 | LaRocca, Eric            |                      | Things Have Gotten Worse Since We Last Spoke                                            |
 | 2021 | McConaghy, Charlotte     |                      | Once There Were Wolves                                                                  |
+| 2021 | Ozeki, Ruth              |                      | The Book of Form and Emptiness                                                          |
+| 2021 | Zauner, Michelle         |                      | Crying in H Mart                                                                        |
+
+## On the Way
+
+| YEAR | AUTHOR                   | TRANSLATOR           | TITLE                                                                                   |
+| ---- | ------------------------ | -------------------- | --------------------------------------------------------------------------------------- |
+|      | Dickinson, Emily         |                      | The Complete Poems of Emily Dickinson                                              (2)  |
+|      | Stillman, Frances        |                      | The Poet's Manual And Rhyming Dictionary                                           (2)  |
+|      | Wegelius, Jakob          |                      | The Murderer's Ape                                                                 (1)  |
+| 2018 | Olafsdóttir, Auður Ava   | Brian FitzGibbon     | Hotel Silence                                                                      (2)  |
+| 2018 | Sanderson, Brandon       |                      | Skyward                                                                            (1)  |
+| 2020 | Henry, Emily             |                      | Beach Read                                                                         (1)  |
+| 2021 | Fuller, Claire           |                      | Unsettled Ground                                                                   (1)  |
+| 2021 | Harris, Zakiya Dalila    |                      | The Other Black Girl                                                               (1)  |
 
 ## Non-fiction (poetry/essays/memoirs/autobiographies)
 
