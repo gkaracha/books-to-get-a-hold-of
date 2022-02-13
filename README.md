@@ -89,14 +89,7 @@ Books I'd potentially like to acquire.
 
 | YEAR | AUTHOR                   | TRANSLATOR           | TITLE                                                                                   |
 | ---- | ------------------------ | -------------------- | --------------------------------------------------------------------------------------- |
-|      | Dickinson, Emily         |                      | The Complete Poems of Emily Dickinson                                              (2)  |
-|      | Stillman, Frances        |                      | The Poet's Manual And Rhyming Dictionary                                           (2)  |
-|      | Wegelius, Jakob          |                      | The Murderer's Ape                                                                 (1)  |
-| 2018 | Olafsdóttir, Auður Ava   | Brian FitzGibbon     | Hotel Silence                                                                      (2)  |
-| 2018 | Sanderson, Brandon       |                      | Skyward                                                                            (1)  |
-| 2020 | Henry, Emily             |                      | Beach Read                                                                         (1)  |
-| 2021 | Fuller, Claire           |                      | Unsettled Ground                                                                   (1)  |
-| 2021 | Harris, Zakiya Dalila    |                      | The Other Black Girl                                                               (1)  |
+|      |                          |                      |                                                                                         |
 
 ## Non-fiction (poetry/essays/memoirs/autobiographies)
 
