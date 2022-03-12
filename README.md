@@ -31,7 +31,6 @@ Books I'd potentially like to acquire.
 |         |      | Lourey, Jess             |                      | Unspeakable Things                                                                      |
 |         |      | Lovecraft, H.P.          |                      | At the Mountains of Madness                                                             |
 |         |      | Lovecraft, H.P.          |                      | The Call of Cthulhu                                                                     |
-|         |      | Maguire, Gregory         |                      | Wicked: The Life and Times of the Wicked Witch of the West                              |
 |         |      | Malerman, Josh           |                      | Bird Box (Bird Box, #1)                                                                 |
 |         |      | Mandel, Emily St. John   |                      | Station Eleven                                                                          |
 |         |      | Martel, Yann             |                      | Life of Pi                                                                              |
