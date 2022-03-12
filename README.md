@@ -8,6 +8,7 @@ Books I'd potentially like to acquire.
 | ---- | ------------------------ | -------------------- | --------------------------------------------------------------------------------------- | ------- |
 |      | Akutagawa, Ryūnosuke     | Michael Brase        | In a Grove                                                                              | ✔       |
 |      | Brontë, Anne             |                      | The Tenant of Wildfell Hall                                                             |         |
+|      | Camus, Albert            |                      | A Happy Death                                                                           | ✔✔✔     |
 |      | Clarke, Arthur C.        |                      | Rendezvous with Rama (Rama, #1)                                                         |         |
 |      | Dunthorne, Joe           |                      | The Adulterants                                                                         |         |
 |      | Extence, Gavin           |                      | The Empathy Problem                                                                     |         |
@@ -51,12 +52,13 @@ Books I'd potentially like to acquire.
 |      | Sabolo, Monica           |                      | All This Has Nothing to Do with Me                                                      |         |
 |      | Salih, Tayeb             | Denys Johnson-Davies | Season of Migration to the North                                                        |         |
 |      | Semple, Maria            |                      | Where'd You Go, Bernadette                                                              |         |
+|      | Shafak, Elif             |                      | Three Daughters of Eve                                                                  |         |
 |      | Sheers, Owen             |                      | Resistance                                                                              |         |
 |      | Silverstein, Shel        |                      | The Giving Tree                                                                         |         |
 |      | Snicket, Lemony          |                      | The Bad Beginning (A Series of Unfortunate Events #1) |                                 |         |
 |      | Strugatsky, Boris & Strugatsky, Arkady |        | Monday Starts on Saturday                                                               |         |
 |      | Tan, Shaun               |                      | Tales from Outer Suburbia                                                               |         |
-|      | Thomas, Angie            |                      | The Hate You Give                                                                       |         |
+|      | Thomas, Angie            |                      | The Hate U Give                                                                         |         |
 |      | Tolstoy, Leo             | Pevear & Volokhonsky | The Death of Ivan Ilyich                                                                |         |
 |      | Verne, Jules             |                      | A Journey to the Center of the Earth                                                    |         |
 |      | Vonnegut Jr., Kurt       |                      | Slaughterhouse-Five                                                                     |         |
@@ -68,7 +70,6 @@ Books I'd potentially like to acquire.
 |      | Zusak, Markus            |                      | The Book Thief                                                                          |         |
 |      | du Maurier, Daphne       |                      | Rebecca                                                                                 |         |
 |      | le Carré, John           |                      | The Constant Gardener                                                                   |         |
-| 2016 | Shafak, Elif             |                      | Three Daughters of Eve                                                                  |         |
 | 2017 | Natsukawa, Sōsuke        | Louise Heal Kawai    | The Cat Who Saved Books                                                                 |         |
 | 2018 | Bracht, Mary Lynn        |                      | White Chrysanthemum                                                                     |         |
 | 2018 | Hawkins, Paula           |                      | Into the Water                                                                          |         |
@@ -116,7 +117,7 @@ Books I'd potentially like to acquire.
 |      | Nelson, Maggie           |                      | On Freedom: Four Songs of Care and Constraint                                           |         |
 |      | Palmer, Amanda           |                      | The Art of Asking; or, How I Learned to Stop Worrying and Let People Help               |         |
 |      | Penn, Robert             |                      | The Man Who Made Things Out of Trees                                                    |         |
-|      | Taylor, Joelle           |                      | C+nto & Othered Poems                                                                   | ✔       |
+|      | Taylor, Joelle           |                      | C+nto & Othered Poems                                                                   | ✔✔✔     |
 |      | Taylor, Joelle           |                      | Songs My Enemy Taught Me                                                                |         |
 |      | Taylor, Joelle           |                      | The Woman Who Was Not There                                                             |         |
 |      | Tolkien, J.R.R.          |                      | Leaf by Niggle                                                                          |         |
@@ -158,12 +159,9 @@ Books I'd potentially like to acquire.
 |      | Όμηρος                   |                      | Ομήρου Ιλιάδα                                                                           |         |
 |      | Όμηρος                   |                      | Ομήρου Οδύσσεια                                                                         |         |
 
-## Authors to look into
-
-* Franz Kafka
-
 ## Other items to sort out
 
+* Franz Kafka (https://en.wikipedia.org/wiki/Franz_Kafka_bibliography)
 * The gender games
 * Stay in your lane?
 * Harry Leslie Smith
