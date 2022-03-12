@@ -6,6 +6,7 @@ Books I'd potentially like to acquire.
 
 | YEAR | AUTHOR                   | TRANSLATOR           | TITLE                                                                                   |
 | ---- | ------------------------ | -------------------- | --------------------------------------------------------------------------------------- |
+|      | Akutagawa, Ryūnosuke     | Michael Brase        | In a Grove                                                                              | *
 |      | Brontë, Anne             |                      | The Tenant of Wildfell Hall                                                             |
 |      | Clarke, Arthur C.        |                      | Rendezvous with Rama (Rama, #1)                                                         |
 |      | Dunthorne, Joe           |                      | The Adulterants                                                                         |
@@ -22,7 +23,9 @@ Books I'd potentially like to acquire.
 |      | Hosseini, Khaled         |                      | The Kite Runner                                                                         |
 |      | Huxley, Aldous           |                      | Brave New World                                                                         |
 |      | Huxley, Aldous           |                      | Island                                                                                  |
-|      | Kang, Han                | Smith, Deborah       | The Vegetarian                                                                          |
+|      | Joseph, Manu             |                      | The Illicit Happiness of Other People                                                   | *
+|      | Kang, Han                | Smith, Deborah       | The Vegetarian                                                                          | *
+|      | Kivirähk, Andrus         | Christopher Moseley  | The Man Who Spoke Snakish                                                               |
 |      | Le Guin, Ursula K.       |                      | Four Ways to Forgiveness                                                                |
 |      | Lee, Harper              |                      | To Kill a Mockingbird                                                                   |
 |      | Locke, Attica            |                      | Black Water Rising                                                                      |
@@ -38,6 +41,7 @@ Books I'd potentially like to acquire.
 |      | Morrison, Toni           |                      | Beloved                                                                                 |
 |      | Morrison, Toni           |                      | Sula                                                                                    |
 |      | Munduruku, Daniel        | Springer, Jane       | Amazonia: Indigenous Tales from Brazil                                                  |
+|      | Nam-Joo, Cho             | Jamie Chang          | Kim Jiyoung, Born 1982                                                                  |
 |      | Ness, Patrick            |                      | A Monster Calls                                                                         |
 |      | Niffenegger, Audrey      |                      | The Time Traveler's Wife                                                                |
 |      | O'Farrell, Maggie        |                      | Hamnet                                                                                  |
@@ -45,6 +49,7 @@ Books I'd potentially like to acquire.
 |      | Rijneveld, Marieke Lucas | Hutchison, Michele   | The Discomfort of Evening                                                               |
 |      | Roald Dahl, Roald        |                      | James and the Giant Peach                                                               |
 |      | Sabolo, Monica           |                      | All This Has Nothing to Do with Me                                                      |
+|      | Salih, Tayeb             | Denys Johnson-Davies | Season of Migration to the North                                                        |
 |      | Semple, Maria            |                      | Where'd You Go, Bernadette                                                              |
 |      | Sheers, Owen             |                      | Resistance                                                                              |
 |      | Silverstein, Shel        |                      | The Giving Tree                                                                         |
@@ -58,7 +63,7 @@ Books I'd potentially like to acquire.
 |      | Walton, Jo               |                      | The Just City (Thessaly, #1)                                                            |
 |      | Woolf, Virginia          |                      | Flush                                                                                   |
 |      | Woolf, Virginia          |                      | On Being Ill                                                                            |
-|      | Wright, Richard          |                      | Craven Place                                                                            |
+|      | Wright, Richard          |                      | Craven Place                                                                            | *
 |      | Zusak, Markus            |                      | The Book Thief                                                                          |
 |      | du Maurier, Daphne       |                      | Rebecca                                                                                 |
 |      | le Carré, John           |                      | The Constant Gardener                                                                   |
@@ -67,23 +72,29 @@ Books I'd potentially like to acquire.
 | 2018 | Bracht, Mary Lynn        |                      | White Chrysanthemum                                                                     |
 | 2018 | Hawkins, Paula           |                      | Into the Water                                                                          |
 | 2018 | Kushner, Rachel          |                      | The Mars Room                                                                           |
+| 2018 | Ma, Ling                 |                      | Severance                                                                               | *
 | 2019 | Garrett, Camryn          |                      | Full Disclosure                                                                         |
+| 2019 | Hardinge, Frances        |                      | Deeplight                                                                               | * !!
 | 2020 | Abulhawa, Susan          |                      | Against the Loveless World                                                              |
+| 2020 | Kawakami, Mieko          | Sam Bett, David Boyd | Breasts and Eggs                                                                        |
 | 2020 | MacMahon, Kathleen       |                      | Nothing But Blue Sky                                                                    |
+| 2020 | Washington, Bryan        |                      | Memorial                                                                                |
 | 2021 | Dockrill, Laura          |                      | The Lipstick [children's]                                                               |
+| 2021 | Jones, Cherie            |                      | How the One-Armed Sister Sweeps Her House                                               | *
 | 2021 | Lancet-Grant, Jodie      |                      | The Pirate Mums [children's]                                                            |
+| 2021 | Nelson, Caleb Azumah     |                      | Open Water                                                                              | *
 | 2021 | Weir, Andy               |                      | Project Hail Mary                                                                       |
 
 ## Up Next
 
 | YEAR | AUTHOR                   | TRANSLATOR           | TITLE                                                                                   |
 | ---- | ------------------------ | -------------------- | --------------------------------------------------------------------------------------- |
-|      | Williams, Lara           |                      | Treats                                                                                  |
-| 2018 | Powers, Richard          |                      | The Overstory                                                                           |
-| 2021 | LaRocca, Eric            |                      | Things Have Gotten Worse Since We Last Spoke                                            |
-| 2021 | McConaghy, Charlotte     |                      | Once There Were Wolves                                                                  |
-| 2021 | Ozeki, Ruth              |                      | The Book of Form and Emptiness                                                          |
-| 2021 | Zauner, Michelle         |                      | Crying in H Mart                                                                        |
+|      | Williams, Lara           |                      | Treats                                                                                  | +
+| 2018 | Powers, Richard          |                      | The Overstory                                                                           | +
+| 2021 | LaRocca, Eric            |                      | Things Have Gotten Worse Since We Last Spoke                                            | +
+| 2021 | McConaghy, Charlotte     |                      | Once There Were Wolves                                                                  | +
+| 2021 | Ozeki, Ruth              |                      | The Book of Form and Emptiness                                                          | +
+| 2021 | Zauner, Michelle         |                      | Crying in H Mart                                                                        | +
 
 ## On the Way
 
@@ -96,22 +107,26 @@ Books I'd potentially like to acquire.
 | YEAR | AUTHOR                   | TRANSLATOR           | TITLE                                                                                   |
 | ---- | ------------------------ | -------------------- | --------------------------------------------------------------------------------------- |
 |      |                          | Tolkien, J.R.R.      | Beowulf                                                                                 |
-|      | Baldwin, James           |                      | The Fire Next Time                                                                      |
+|      | Baldwin, James           |                      | The Fire Next Time                                                                      | *
 |      | Bell, Jo & Commane, Jane |                      | How to be a Poet                                                                        |
+|      | Bushe, Fran              |                      | My Broken Vagina: One Woman's Quest to Fix Her Sex Life, and Yours                      | *
 |      | Darwish, Mahmoud         |                      | In the Presence of Absence                                                              |
+|      | Darwish, Mahmoud         | Catherine Cobham     | A River Dies of Thirst                                                                  |
 |      | Denbigh, Tom             |                      | ...and then she ate him                                                                 |
 |      | Eghbal, Nadia            |                      | Working in Public: The Making and Maintenance of Open Source Software                   |
 |      | Hudson, Kerry            |                      | Lowborn: Growing Up, Getting Away and Returning to Britain's Poorest Towns              |
-|      | Hughes, Langston         |                      | I, Too, Am America                                                                      |
+|      | Hughes, Langston         |                      | I, Too, Am America                                                                      | *
 |      | Kalanithi, Paul          |                      | When Breath Becomes Air                                                                 |
 |      | Lorde, Audre             |                      | Your Silence Will Not Protect You: Essays and Poems                                     |
 |      | MacNeice, Louis          |                      | Autumn Journal                                                                          |
 |      | Nelson, Maggie           |                      | On Freedom: Four Songs of Care and Constraint                                           |
 |      | Palmer, Amanda           |                      | The Art of Asking; or, How I Learned to Stop Worrying and Let People Help               |
 |      | Penn, Robert             |                      | The Man Who Made Things Out of Trees                                                    |
+|      | Taylor, Joelle           |                      | C+nto & Othered Poems                                                                   | *
+|      | Taylor, Joelle           |                      | Songs My Enemy Taught Me                                                                |
+|      | Taylor, Joelle           |                      | The Woman Who Was Not There                                                             |
 |      | Tolkien, J.R.R.          |                      | Leaf by Niggle                                                                          |
 |      | Tolkien, J.R.R.          |                      | The Adventures of Tom Bombadil                                                          |
-|      | Bushe, Fran              |                      | My Broken Vagina: One Woman's Quest to Fix Her Sex Life, and Yours                      |
 
 ## Non-fiction
 
