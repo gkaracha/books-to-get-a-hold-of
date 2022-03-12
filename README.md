@@ -61,6 +61,7 @@ Books I'd potentially like to acquire.
 |      | Verne, Jules             |                      | A Journey to the Center of the Earth                                                    |         |
 |      | Vonnegut Jr., Kurt       |                      | Slaughterhouse-Five                                                                     |         |
 |      | Walton, Jo               |                      | The Just City (Thessaly, #1)                                                            |         |
+|      | Williams, Lara           |                      | Treats                                                                                  | ✔✔✔     |
 |      | Woolf, Virginia          |                      | Flush                                                                                   |         |
 |      | Woolf, Virginia          |                      | On Being Ill                                                                            |         |
 |      | Wright, Richard          |                      | Craven Place                                                                            | ✔       |
@@ -73,6 +74,7 @@ Books I'd potentially like to acquire.
 | 2018 | Hawkins, Paula           |                      | Into the Water                                                                          |         |
 | 2018 | Kushner, Rachel          |                      | The Mars Room                                                                           |         |
 | 2018 | Ma, Ling                 |                      | Severance                                                                               | ✔       |
+| 2018 | Powers, Richard          |                      | The Overstory                                                                           | ✔✔✔     |
 | 2019 | Garrett, Camryn          |                      | Full Disclosure                                                                         |         |
 | 2019 | Hardinge, Frances        |                      | Deeplight                                                                               | ✔✔      |
 | 2020 | Abulhawa, Susan          |                      | Against the Loveless World                                                              |         |
@@ -81,20 +83,12 @@ Books I'd potentially like to acquire.
 | 2020 | Washington, Bryan        |                      | Memorial                                                                                |         |
 | 2021 | Dockrill, Laura          |                      | The Lipstick [children's]                                                               |         |
 | 2021 | Jones, Cherie            |                      | How the One-Armed Sister Sweeps Her House                                               | ✔       |
-| 2021 | Lancet-Grant, Jodie      |                      | The Pirate Mums [children's]                                                            |         |
-| 2021 | Nelson, Caleb Azumah     |                      | Open Water                                                                              | ✔       |
-| 2021 | Weir, Andy               |                      | Project Hail Mary                                                                       |         |
-
-## Up Next
-
-| YEAR | AUTHOR                   | TRANSLATOR           | TITLE                                                                                   | UP NEXT |
-| ---- | ------------------------ | -------------------- | --------------------------------------------------------------------------------------- | ------- |
-|      | Williams, Lara           |                      | Treats                                                                                  | ✔✔✔     |
-| 2018 | Powers, Richard          |                      | The Overstory                                                                           | ✔✔✔     |
 | 2021 | LaRocca, Eric            |                      | Things Have Gotten Worse Since We Last Spoke                                            | ✔✔✔     |
+| 2021 | Lancet-Grant, Jodie      |                      | The Pirate Mums [children's]                                                            |         |
 | 2021 | McConaghy, Charlotte     |                      | Once There Were Wolves                                                                  | ✔✔✔     |
+| 2021 | Nelson, Caleb Azumah     |                      | Open Water                                                                              | ✔       |
 | 2021 | Ozeki, Ruth              |                      | The Book of Form and Emptiness                                                          | ✔✔✔     |
-| 2021 | Zauner, Michelle         |                      | Crying in H Mart                                                                        | ✔✔✔     |
+| 2021 | Weir, Andy               |                      | Project Hail Mary                                                                       |         |
 
 ## On the Way
 
@@ -127,6 +121,7 @@ Books I'd potentially like to acquire.
 |      | Taylor, Joelle           |                      | The Woman Who Was Not There                                                             |         |
 |      | Tolkien, J.R.R.          |                      | Leaf by Niggle                                                                          |         |
 |      | Tolkien, J.R.R.          |                      | The Adventures of Tom Bombadil                                                          |         |
+|      | Zauner, Michelle         |                      | Crying in H Mart                                                                        | ✔✔✔     |
 
 ## Non-fiction
 
