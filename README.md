@@ -72,6 +72,7 @@ Books I'd potentially like to acquire.
 |      | le Carré, John           |                      | The Constant Gardener                                                                   |         |
 | 2017 | Natsukawa, Sōsuke        | Louise Heal Kawai    | The Cat Who Saved Books                                                                 |         |
 | 2018 | Bracht, Mary Lynn        |                      | White Chrysanthemum                                                                     |         |
+| 2018 | Braithwaite, Oyinkan     |                      | My Sister, the Serial Killer                                                            | ✔       |
 | 2018 | Hawkins, Paula           |                      | Into the Water                                                                          |         |
 | 2018 | Kushner, Rachel          |                      | The Mars Room                                                                           |         |
 | 2018 | Ma, Ling                 |                      | Severance                                                                               | ✔       |
