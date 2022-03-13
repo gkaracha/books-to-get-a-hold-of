@@ -9,7 +9,6 @@ Books I'd potentially like to acquire.
 |         |      | Brontë, Anne             |                      | The Tenant of Wildfell Hall                                                             |
 |         |      | Clarke, Arthur C.        |                      | Rendezvous with Rama (Rama, #1)                                                         |
 |         |      | Dunthorne, Joe           |                      | The Adulterants                                                                         |
-|         |      | Extence, Gavin           |                      | The Empathy Problem                                                                     |
 |         |      | Extence, Gavin           |                      | The End of Time                                                                         |
 |         |      | Flynn, Gillian           |                      | Gone Girl                                                                               |
 |         |      | Gaiman, Neil             |                      | Coraline                                                                                |
@@ -33,12 +32,10 @@ Books I'd potentially like to acquire.
 |         |      | Lovecraft, H.P.          |                      | The Call of Cthulhu                                                                     |
 |         |      | Malerman, Josh           |                      | Bird Box (Bird Box, #1)                                                                 |
 |         |      | Mandel, Emily St. John   |                      | Station Eleven                                                                          |
-|         |      | Martel, Yann             |                      | Life of Pi                                                                              |
 |         |      | Morrison, Toni           |                      | Beloved                                                                                 |
 |         |      | Munduruku, Daniel        | Springer, Jane       | Amazonia: Indigenous Tales from Brazil                                                  |
 |         |      | Nam-Joo, Cho             | Jamie Chang          | Kim Jiyoung, Born 1982                                                                  |
 |         |      | Ness, Patrick            |                      | A Monster Calls                                                                         |
-|         |      | Niffenegger, Audrey      |                      | The Time Traveler's Wife                                                                |
 |         |      | O'Farrell, Maggie        |                      | Hamnet                                                                                  |
 |         |      | Pennac, Daniel           |                      | The Rights of the Reader                                                                |
 |         |      | Rijneveld, Marieke Lucas | Hutchison, Michele   | The Discomfort of Evening                                                               |
@@ -83,13 +80,10 @@ Books I'd potentially like to acquire.
 | ✔       |      | Wright, Richard          |                      | Craven Place                                                                            |
 | ✔       | 2018 | Braithwaite, Oyinkan     |                      | My Sister, the Serial Killer                                                            |
 | ✔       | 2018 | Ma, Ling                 |                      | Severance                                                                               |
-| ✔       | 2019 | Cruz, Angie              |                      | Dominicana                                                                              |
-| ✔       | 2020 | Schwab, V.E.             |                      | The Invisible Life of Addie LaRue                                                       |
 | ✔       | 2021 | Jones, Cherie            |                      | How the One-Armed Sister Sweeps Her House                                               |
 | ✔       | 2021 | LaRocca, Eric            |                      | Things Have Gotten Worse Since We Last Spoke                                            |
 | ✔       | 2021 | McConaghy, Charlotte     |                      | Once There Were Wolves                                                                  |
 | ✔       | 2021 | Nelson, Caleb Azumah     |                      | Open Water                                                                              |
-| ✔       | 2021 | Ozeki, Ruth              |                      | The Book of Form and Emptiness                                                          |
 
 ## On the Way
 
