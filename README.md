@@ -35,7 +35,6 @@ Books I'd potentially like to acquire.
 |         |      | Mandel, Emily St. John   |                      | Station Eleven                                                                          |
 |         |      | Martel, Yann             |                      | Life of Pi                                                                              |
 |         |      | Morrison, Toni           |                      | Beloved                                                                                 |
-|         |      | Morrison, Toni           |                      | Sula                                                                                    |
 |         |      | Munduruku, Daniel        | Springer, Jane       | Amazonia: Indigenous Tales from Brazil                                                  |
 |         |      | Nam-Joo, Cho             | Jamie Chang          | Kim Jiyoung, Born 1982                                                                  |
 |         |      | Ness, Patrick            |                      | A Monster Calls                                                                         |
@@ -53,6 +52,7 @@ Books I'd potentially like to acquire.
 |         |      | Snicket, Lemony          |                      | The Bad Beginning (A Series of Unfortunate Events #1) |                                 |
 |         |      | Strugatsky, Boris & Strugatsky, Arkady |        | Monday Starts on Saturday                                                               |
 |         |      | Tan, Shaun               |                      | Tales from Outer Suburbia                                                               |
+|         |      | Thien, Madeleine         |                      | Do Not Say We Have Nothing                                                              |
 |         |      | Thomas, Angie            |                      | The Hate U Give                                                                         |
 |         |      | Tolstoy, Leo             | Pevear & Volokhonsky | The Death of Ivan Ilyich                                                                |
 |         |      | Verne, Jules             |                      | A Journey to the Center of the Earth                                                    |
@@ -67,6 +67,7 @@ Books I'd potentially like to acquire.
 |         | 2018 | Bracht, Mary Lynn        |                      | White Chrysanthemum                                                                     |
 |         | 2018 | Hawkins, Paula           |                      | Into the Water                                                                          |
 |         | 2018 | Kushner, Rachel          |                      | The Mars Room                                                                           |
+|         | 2018 | van Llewyn, Sophie       |                      | Bottled Goods                                                                           |
 |         | 2019 | Garrett, Camryn          |                      | Full Disclosure                                                                         |
 |         | 2020 | Abulhawa, Susan          |                      | Against the Loveless World                                                              |
 |         | 2020 | Kawakami, Mieko          | Sam Bett, David Boyd | Breasts and Eggs                                                                        |
@@ -76,20 +77,23 @@ Books I'd potentially like to acquire.
 |         | 2021 | Lancet-Grant, Jodie      |                      | The Pirate Mums [children's]                                                            |
 |         | 2021 | Weir, Andy               |                      | Project Hail Mary                                                                       |
 | ✔       |      | Akutagawa, Ryūnosuke     | Michael Brase        | In a Grove                                                                              |
+| ✔       |      | Camus, Albert            |                      | A Happy Death                                                                           |
 | ✔       |      | Joseph, Manu             |                      | The Illicit Happiness of Other People                                                   |
 | ✔       |      | Kang, Han                | Smith, Deborah       | The Vegetarian                                                                          |
+| ✔       |      | Morrison, Toni           |                      | Sula                                                                                    |
+| ✔       |      | Williams, Lara           |                      | Treats                                                                                  |
 | ✔       |      | Wright, Richard          |                      | Craven Place                                                                            |
 | ✔       | 2018 | Braithwaite, Oyinkan     |                      | My Sister, the Serial Killer                                                            |
 | ✔       | 2018 | Ma, Ling                 |                      | Severance                                                                               |
+| ✔       | 2018 | Powers, Richard          |                      | The Overstory                                                                           |
+| ✔       | 2019 | Cruz, Angie              |                      | Dominicana                                                                              |
+| ✔       | 2019 | Hardinge, Frances        |                      | Deeplight                                                                               |
+| ✔       | 2020 | Schwab, V.E.             |                      | The Invisible Life of Addie LaRue                                                       |
 | ✔       | 2021 | Jones, Cherie            |                      | How the One-Armed Sister Sweeps Her House                                               |
+| ✔       | 2021 | LaRocca, Eric            |                      | Things Have Gotten Worse Since We Last Spoke                                            |
+| ✔       | 2021 | McConaghy, Charlotte     |                      | Once There Were Wolves                                                                  |
 | ✔       | 2021 | Nelson, Caleb Azumah     |                      | Open Water                                                                              |
-| ✔✔      | 2019 | Hardinge, Frances        |                      | Deeplight                                                                               |
-| ✔✔✔     |      | Camus, Albert            |                      | A Happy Death                                                                           |
-| ✔✔✔     |      | Williams, Lara           |                      | Treats                                                                                  |
-| ✔✔✔     | 2018 | Powers, Richard          |                      | The Overstory                                                                           |
-| ✔✔✔     | 2021 | LaRocca, Eric            |                      | Things Have Gotten Worse Since We Last Spoke                                            |
-| ✔✔✔     | 2021 | McConaghy, Charlotte     |                      | Once There Were Wolves                                                                  |
-| ✔✔✔     | 2021 | Ozeki, Ruth              |                      | The Book of Form and Emptiness                                                          |
+| ✔       | 2021 | Ozeki, Ruth              |                      | The Book of Form and Emptiness                                                          |
 
 ## On the Way
 
@@ -121,8 +125,8 @@ Books I'd potentially like to acquire.
 | ✔       |      | Baldwin, James           |                      | The Fire Next Time                                                                      |
 | ✔       |      | Bushe, Fran              |                      | My Broken Vagina: One Woman's Quest to Fix Her Sex Life, and Yours                      |
 | ✔       |      | Hughes, Langston         |                      | I, Too, Am America                                                                      |
-| ✔✔✔     |      | Taylor, Joelle           |                      | C+nto & Othered Poems                                                                   |
-| ✔✔✔     |      | Zauner, Michelle         |                      | Crying in H Mart                                                                        |
+| ✔       |      | Taylor, Joelle           |                      | C+nto & Othered Poems                                                                   |
+| ✔       |      | Zauner, Michelle         |                      | Crying in H Mart                                                                        |
 
 ## Non-fiction
 
