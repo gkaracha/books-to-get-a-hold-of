@@ -53,7 +53,6 @@ Books I'd potentially like to acquire.
 |         |      | Strugatsky, Boris & Strugatsky, Arkady |        | Monday Starts on Saturday                                                               |
 |         |      | Tan, Shaun               |                      | Tales from Outer Suburbia                                                               |
 |         |      | Thien, Madeleine         |                      | Do Not Say We Have Nothing                                                              |
-|         |      | Thomas, Angie            |                      | The Hate U Give                                                                         |
 |         |      | Tolstoy, Leo             | Pevear & Volokhonsky | The Death of Ivan Ilyich                                                                |
 |         |      | Verne, Jules             |                      | A Journey to the Center of the Earth                                                    |
 |         |      | Vonnegut Jr., Kurt       |                      | Slaughterhouse-Five                                                                     |
@@ -79,15 +78,12 @@ Books I'd potentially like to acquire.
 | ✔       |      | Akutagawa, Ryūnosuke     | Michael Brase        | In a Grove                                                                              |
 | ✔       |      | Camus, Albert            |                      | A Happy Death                                                                           |
 | ✔       |      | Joseph, Manu             |                      | The Illicit Happiness of Other People                                                   |
-| ✔       |      | Kang, Han                | Smith, Deborah       | The Vegetarian                                                                          |
 | ✔       |      | Morrison, Toni           |                      | Sula                                                                                    |
 | ✔       |      | Williams, Lara           |                      | Treats                                                                                  |
 | ✔       |      | Wright, Richard          |                      | Craven Place                                                                            |
 | ✔       | 2018 | Braithwaite, Oyinkan     |                      | My Sister, the Serial Killer                                                            |
 | ✔       | 2018 | Ma, Ling                 |                      | Severance                                                                               |
-| ✔       | 2018 | Powers, Richard          |                      | The Overstory                                                                           |
 | ✔       | 2019 | Cruz, Angie              |                      | Dominicana                                                                              |
-| ✔       | 2019 | Hardinge, Frances        |                      | Deeplight                                                                               |
 | ✔       | 2020 | Schwab, V.E.             |                      | The Invisible Life of Addie LaRue                                                       |
 | ✔       | 2021 | Jones, Cherie            |                      | How the One-Armed Sister Sweeps Her House                                               |
 | ✔       | 2021 | LaRocca, Eric            |                      | Things Have Gotten Worse Since We Last Spoke                                            |
@@ -100,6 +96,10 @@ Books I'd potentially like to acquire.
 | UP NEXT | YEAR | AUTHOR                   | TRANSLATOR           | TITLE                                                                                   |
 | ------- | ---- | ------------------------ | -------------------- | --------------------------------------------------------------------------------------- |
 |         |      |                          |                      |                                                                                         |
+|         |      | Thomas, Angie            |                      | The Hate U Give                                                                         |
+| ✔       |      | Kang, Han                | Smith, Deborah       | The Vegetarian                                                                          |
+| ✔       | 2018 | Powers, Richard          |                      | The Overstory                                                                           |
+| ✔       | 2019 | Hardinge, Frances        |                      | Deeplight                                                                               |
 
 ## Non-fiction (poetry/essays/memoirs/autobiographies)
 
