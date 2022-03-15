@@ -10,6 +10,7 @@ Books I'd potentially like to acquire.
 |      | Brontë, Anne             |                      | The Tenant of Wildfell Hall                                                             |         |
 |      | Camus, Albert            |                      | A Happy Death                                                                           | ✔       |
 |      | Clarke, Arthur C.        |                      | Rendezvous with Rama (Rama, #1)                                                         |         |
+|      | Cusk, Rachel             |                      | Outline                                                                                 |         |
 |      | Dunthorne, Joe           |                      | The Adulterants                                                                         |         |
 |      | Extence, Gavin           |                      | The End of Time                                                                         |         |
 |      | Flynn, Gillian           |                      | Gone Girl                                                                               |         |
@@ -34,23 +35,26 @@ Books I'd potentially like to acquire.
 |      | Lovecraft, H.P.          |                      | At the Mountains of Madness                                                             |         |
 |      | Lovecraft, H.P.          |                      | The Call of Cthulhu                                                                     |         |
 |      | Malerman, Josh           |                      | Bird Box (Bird Box, #1)                                                                 |         |
-|      | Mandel, Emily St. John   |                      | Station Eleven                                                                          |         |
+|      | Mandel, Emily St. John   |                      | Station Eleven                                                                          | ✔       |
 |      | Morrison, Toni           |                      | Beloved                                                                                 |         |
 |      | Morrison, Toni           |                      | Sula                                                                                    | ✔       |
 |      | Munduruku, Daniel        | Springer, Jane       | Amazonia: Indigenous Tales from Brazil                                                  |         |
 |      | Nam-Joo, Cho             | Jamie Chang          | Kim Jiyoung, Born 1982                                                                  |         |
 |      | Ness, Patrick            |                      | A Monster Calls                                                                         |         |
 |      | O'Farrell, Maggie        |                      | Hamnet                                                                                  |         |
+|      | Paull, Laline            |                      | The Bees                                                                                | ✔       |
 |      | Pennac, Daniel           |                      | The Rights of the Reader                                                                |         |
 |      | Rijneveld, Marieke Lucas | Hutchison, Michele   | The Discomfort of Evening                                                               |         |
 |      | Roald Dahl, Roald        |                      | James and the Giant Peach                                                               |         |
 |      | Sabolo, Monica           |                      | All This Has Nothing to Do with Me                                                      |         |
 |      | Salih, Tayeb             | Denys Johnson-Davies | Season of Migration to the North                                                        |         |
+|      | Saramago, José           |                      | Blindness                                                                               | ✔       |
 |      | Semple, Maria            |                      | Where'd You Go, Bernadette                                                              |         |
 |      | Shafak, Elif             |                      | Three Daughters of Eve                                                                  |         |
 |      | Sheers, Owen             |                      | Resistance                                                                              |         |
 |      | Silverstein, Shel        |                      | The Giving Tree                                                                         |         |
 |      | Snicket, Lemony          |                      | The Bad Beginning (A Series of Unfortunate Events #1) |                                 |         |
+|      | Stephenson, Neal         |                      | Anathem                                                                                 |         |
 |      | Strugatsky, Boris & Strugatsky, Arkady |        | Monday Starts on Saturday                                                               |         |
 |      | Tan, Shaun               |                      | Tales from Outer Suburbia                                                               |         |
 |      | Thien, Madeleine         |                      | Do Not Say We Have Nothing                                                              |         |
@@ -58,6 +62,7 @@ Books I'd potentially like to acquire.
 |      | Verne, Jules             |                      | A Journey to the Center of the Earth                                                    |         |
 |      | Vonnegut Jr., Kurt       |                      | Slaughterhouse-Five                                                                     |         |
 |      | Walton, Jo               |                      | The Just City (Thessaly, #1)                                                            |         |
+|      | Weir, Andy               |                      | The Martian                                                                             |         |
 |      | Williams, Lara           |                      | Treats                                                                                  | ✔       |
 |      | Woolf, Virginia          |                      | Flush                                                                                   |         |
 |      | Woolf, Virginia          |                      | On Being Ill                                                                            |         |
