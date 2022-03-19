@@ -82,6 +82,7 @@ Books I'd potentially like to acquire.
 | 2020 | Kawakami, Mieko          | Sam Bett, David Boyd | Breasts and Eggs                                                                        |         |
 | 2020 | MacMahon, Kathleen       |                      | Nothing But Blue Sky                                                                    |         |
 | 2020 | Washington, Bryan        |                      | Memorial                                                                                |         |
+| 2021 | Chambers, Becky          |                      | A Psalm for the Wild-Built                                                              | ✔       |
 | 2021 | Dockrill, Laura          |                      | The Lipstick [children's]                                                               |         |
 | 2021 | Jones, Cherie            |                      | How the One-Armed Sister Sweeps Her House                                               | ✔       |
 | 2021 | LaRocca, Eric            |                      | Things Have Gotten Worse Since We Last Spoke                                            | ✔       |
