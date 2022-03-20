@@ -11,6 +11,7 @@ Books I'd potentially like to acquire.
 |      | Camus, Albert            |                      | A Happy Death                                                                           | ✔       |
 |      | Clarke, Arthur C.        |                      | Rendezvous with Rama (Rama, #1)                                                         |         |
 |      | Cusk, Rachel             |                      | Outline                                                                                 |         |
+|      | Dockrill, Laura          |                      | Lorali                                                                                  |         |
 |      | Dunthorne, Joe           |                      | The Adulterants                                                                         |         |
 |      | Extence, Gavin           |                      | The End of Time                                                                         |         |
 |      | Flynn, Gillian           |                      | Gone Girl                                                                               |         |
@@ -119,6 +120,7 @@ Books I'd potentially like to acquire.
 |      | Lorde, Audre             |                      | Your Silence Will Not Protect You: Essays and Poems                                     |         |
 |      | MacNeice, Louis          |                      | Autumn Journal                                                                          |         |
 |      | Nelson, Maggie           |                      | On Freedom: Four Songs of Care and Constraint                                           |         |
+|      | Oliver, Mary             |                      | A Poetry Handbook                                                                       |         |
 |      | Palmer, Amanda           |                      | The Art of Asking; or, How I Learned to Stop Worrying and Let People Help               |         |
 |      | Penn, Robert             |                      | The Man Who Made Things Out of Trees                                                    |         |
 |      | Taylor, Joelle           |                      | C+nto & Othered Poems                                                                   | ✔       |
@@ -148,6 +150,7 @@ Books I'd potentially like to acquire.
 |      | Krznaric, Roman          |                      | How to Find Fulfilling Work (The School of Life)                                        |         |
 |      | Maher, Geo               |                      | A World Without Police: How Strong Communities Make Cops Obsolete                       |         |
 |      | McDonald, Chine          |                      | God Is Not a White Man: And Other Revelations                                           |         |
+|      | Olusoga, David           |                      | Black and British: A Forgotten History                                                  |         |
 |      | Perel, Esther            |                      | Mating in Captivity: Reconciling the Erotic and the Domestic                            |         |
 |      | Rasmussen, Tom           |                      | First Comes Love                                                                        |         |
 |      | Robertson, Scott         |                      | How to Draw: Drawing and Sketching Objects and Environments from Your Imagination       |         |
