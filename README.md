@@ -59,6 +59,7 @@ Books I'd potentially like to acquire.
 |      | Strugatsky, Boris & Strugatsky, Arkady |        | Monday Starts on Saturday                                                               |         |
 |      | Tan, Shaun               |                      | Tales from Outer Suburbia                                                               |         |
 |      | Thien, Madeleine         |                      | Do Not Say We Have Nothing                                                              |         |
+|      | Thomas, Angie            |                      | The Hate U Give                                                                         | ✔       |
 |      | Tolstoy, Leo             | Pevear & Volokhonsky | The Death of Ivan Ilyich                                                                |         |
 |      | Verne, Jules             |                      | A Journey to the Center of the Earth                                                    |         |
 |      | Vonnegut Jr., Kurt       |                      | Slaughterhouse-Five                                                                     |         |
@@ -79,6 +80,7 @@ Books I'd potentially like to acquire.
 | 2018 | Ma, Ling                 |                      | Severance                                                                               | ✔       |
 | 2018 | van Llewyn, Sophie       |                      | Bottled Goods                                                                           |         |
 | 2019 | Garrett, Camryn          |                      | Full Disclosure                                                                         |         |
+| 2019 | Hardinge, Frances        |                      | Deeplight                                                                               | ✔       |
 | 2020 | Abulhawa, Susan          |                      | Against the Loveless World                                                              |         |
 | 2020 | Kawakami, Mieko          | Sam Bett, David Boyd | Breasts and Eggs                                                                        |         |
 | 2020 | MacMahon, Kathleen       |                      | Nothing But Blue Sky                                                                    |         |
@@ -97,10 +99,6 @@ Books I'd potentially like to acquire.
 | YEAR | AUTHOR                   | TRANSLATOR           | TITLE                                                                                   | UP NEXT |
 | ---- | ------------------------ | -------------------- | --------------------------------------------------------------------------------------- | ------- |
 |      |                          |                      |                                                                                         |         |
-|      | Kang, Han                | Smith, Deborah       | The Vegetarian                                                                          | ✔       |
-|      | Thomas, Angie            |                      | The Hate U Give                                                                         |         |
-| 2018 | Powers, Richard          |                      | The Overstory                                                                           | ✔       |
-| 2019 | Hardinge, Frances        |                      | Deeplight                                                                               | ✔       |
 
 ## Non-fiction (poetry/essays/memoirs/autobiographies)
 
