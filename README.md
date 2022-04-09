@@ -7,6 +7,7 @@ Books I'd potentially like to acquire.
 | YEAR | AUTHOR                   | TRANSLATOR           | TITLE                                                                                   | UP NEXT |
 | ---- | ------------------------ | -------------------- | --------------------------------------------------------------------------------------- | ------- |
 |      | Akutagawa, Ryūnosuke     | Michael Brase        | In a Grove                                                                              | ✔       |
+|      | Alderman, Naomi          |                      | Disobedience                                                                            |         |
 |      | Brontë, Anne             |                      | The Tenant of Wildfell Hall                                                             |         |
 |      | Camus, Albert            |                      | A Happy Death                                                                           | ✔       |
 |      | Clarke, Arthur C.        |                      | Rendezvous with Rama (Rama, #1)                                                         |         |
@@ -25,7 +26,12 @@ Books I'd potentially like to acquire.
 |      | Hosseini, Khaled         |                      | The Kite Runner                                                                         |         |
 |      | Huxley, Aldous           |                      | Brave New World                                                                         |         |
 |      | Huxley, Aldous           |                      | Island                                                                                  |         |
+|      | Ishiguro, Kazuo          |                      | A Pale View of Hills                                                                    | ✔       |
+|      | Ishiguro, Kazuo          |                      | An Artist of the Floating World                                                         | ✔       |
+|      | Ishiguro, Kazuo          |                      | When We Were Orphans                                                                    | ✔       |
 |      | Joseph, Manu             |                      | The Illicit Happiness of Other People                                                   | ✔       |
+|      | Kingsolver, Barbara      |                      | The Lacuna                                                                              |         |
+|      | Kingsolver, Barbara      |                      | The Poisonwood Bible                                                                    |         |
 |      | Kivirähk, Andrus         | Christopher Moseley  | The Man Who Spoke Snakish                                                               |         |
 |      | Le Guin, Ursula K.       |                      | Four Ways to Forgiveness                                                                |         |
 |      | Lee, Harper              |                      | To Kill a Mockingbird                                                                   |         |
@@ -87,12 +93,19 @@ Books I'd potentially like to acquire.
 | 2020 | Washington, Bryan        |                      | Memorial                                                                                |         |
 | 2021 | Chambers, Becky          |                      | A Psalm for the Wild-Built                                                              | ✔       |
 | 2021 | Dockrill, Laura          |                      | The Lipstick [children's]                                                               |         |
+| 2021 | Hendrix, Grady           |                      | The Final Girl Support Group                                                            |         |
 | 2021 | Jones, Cherie            |                      | How the One-Armed Sister Sweeps Her House                                               | ✔       |
 | 2021 | LaRocca, Eric            |                      | Things Have Gotten Worse Since We Last Spoke                                            | ✔       |
 | 2021 | Lancet-Grant, Jodie      |                      | The Pirate Mums [children's]                                                            |         |
 | 2021 | McConaghy, Charlotte     |                      | Once There Were Wolves                                                                  | ✔       |
 | 2021 | Nelson, Caleb Azumah     |                      | Open Water                                                                              | ✔       |
 | 2021 | Weir, Andy               |                      | Project Hail Mary                                                                       |         |
+
+## On the Way
+
+| YEAR | AUTHOR                   | TRANSLATOR           | TITLE                                                                                   | UP NEXT |
+| ---- | ------------------------ | -------------------- | --------------------------------------------------------------------------------------- | ------- |
+|      | Ishiguro, Kazuo          |                      | The Buried Giant                                                                        | ✔       |
 
 ## On the Way
 
