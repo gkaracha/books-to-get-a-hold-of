@@ -158,6 +158,7 @@ Books I'd potentially like to acquire.
 |      | Gilbert, Elizabeth       |                      | Big Magic: Creative Living Beyond Fear                                                  |         |
 |      | Hamad, Ruby              |                      | White Tears/Brown Scars: How White Feminism Betrays Women of Color                      |         |
 |      | Jenkinson, Andrew        |                      | Why We Eat (Too Much): The New Science of Appetite                                      |         |
+|      | Kimmerer, Robin Wall     |                      | Braiding Sweetgrass: Indigenous Wisdom,Scientific Knowledge,and the Teachings of Plants |         |
 |      | Krznaric, Roman          |                      | How to Find Fulfilling Work (The School of Life)                                        |         |
 |      | Maher, Geo               |                      | A World Without Police: How Strong Communities Make Cops Obsolete                       |         |
 |      | McDonald, Chine          |                      | God Is Not a White Man: And Other Revelations                                           |         |
