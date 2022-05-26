@@ -113,27 +113,7 @@ Books I'd potentially like to acquire.
 
 | YEAR | AUTHOR                   | TRANSLATOR           | TITLE                                                                                   | UP NEXT |
 | ---- | ------------------------ | -------------------- | --------------------------------------------------------------------------------------- | ------- |
-|      |                          |                      | Eleanor & Park                                                                          |         |
-|      |                          |                      | Loveless                                                                                |         |
-|      |                          |                      | Mad about you                                                                           |         |
-|      |                          |                      | One Last Stop                                                                           |         |
-|      |                          |                      | The Bride Test                                                                          |         |
-|      |                          |                      | The Complete Percepolis                                                                 |         |
-|      |                          |                      | The Golden Gate                                                                         |         |
-|      |                          |                      | The Island of Missing Trees                                                             |         |
-|      |                          |                      | Yolk                                                                                    |         |
-|      | Braithwaite, Oyinkan     |                      | My Sister, the Serial Killer                                                            |         |
-|      | Nam-Joo, Cho             | Jamie Chang          | Kim Jiyoung, Born 1982                                                                  |         |
-|      | Semple, Maria            |                      | Where'd You Go, Bernadette                                                              |         |
-|      | Thomas, Angie            |                      | The Hate U Give                                                                         |         |
-|      | Alderman, Naomi          |                      | Disobedience                                                                            |         |
-|      | Ishiguro, Kazuo          |                      | An Artist of the Floating World                                                         |         |
-|      | Ishiguro, Kazuo          |                      | The Buried Giant                                                                        |         |
-|      | Ishiguro, Kazuo          |                      | When We Were Orphans                                                                    |         |
-|      | Kym, Min                 |                      | Gone: A Girl, a Violin, a Life Unstrung                                                 |         |
-|      | Nelson, Caleb Azumah     |                      | Open Water                                                                              |         |
-|      | Taylor, Joelle           |                      | C+nto & Othered Poems                                                                   |         |
-|      | Weir, Andy               |                      | The Martian                                                                             |         |
+|      |                          |                      |                                                                                         |         |
 
 ## Non-fiction (poetry/essays/memoirs/autobiographies)
 
