@@ -105,7 +105,6 @@ Books I'd potentially like to acquire.
 |      | Baldwin, James           |                      | The Fire Next Time                                                                      | ✔       |
 |      | Hughes, Langston         |                      | I, Too, Am America                                                                      | ✔       |
 |      | Oida, Yoshi              |                      | The Invisible Actor                                                                     |         |
-|      | Rilke, Rainer Maria      |  Reginald Snell      | Letters to a Young Poet                                                                 | ✔       |
 |      | Tolkien, J.R.R.          |                      | The Adventures of Tom Bombadil                                                          | ✔       |
 |      | Zauner, Michelle         |                      | Crying in H Mart                                                                        | ✔       |
 
@@ -114,6 +113,8 @@ Books I'd potentially like to acquire.
 | YEAR | AUTHOR                   | TRANSLATOR           | TITLE                                                                                   | UP NEXT |
 | ---- | ------------------------ | -------------------- | --------------------------------------------------------------------------------------- | ------- |
 |      |                          |                      |                                                                                         |         |
+|      | Oliver, Mary             |                      | A Poetry Handbook                                                                       |         |
+|      | Rilke, Rainer Maria      |  Reginald Snell      | Letters to a Young Poet                                                                 | ✔       |
 
 ## Non-fiction (poetry/essays/memoirs/autobiographies)
 
@@ -130,7 +131,6 @@ Books I'd potentially like to acquire.
 |      | Lorde, Audre             |                      | Your Silence Will Not Protect You: Essays and Poems                                     |         |
 |      | MacNeice, Louis          |                      | Autumn Journal                                                                          |         |
 |      | Nelson, Maggie           |                      | On Freedom: Four Songs of Care and Constraint                                           |         |
-|      | Oliver, Mary             |                      | A Poetry Handbook                                                                       |         |
 |      | Palmer, Amanda           |                      | The Art of Asking; or, How I Learned to Stop Worrying and Let People Help               |         |
 |      | Penn, Robert             |                      | The Man Who Made Things Out of Trees                                                    |         |
 |      | Taylor, Joelle           |                      | Songs My Enemy Taught Me                                                                |         |
