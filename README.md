@@ -113,8 +113,6 @@ Books I'd potentially like to acquire.
 | YEAR | AUTHOR                   | TRANSLATOR           | TITLE                                                                                   | UP NEXT |
 | ---- | ------------------------ | -------------------- | --------------------------------------------------------------------------------------- | ------- |
 |      |                          |                      |                                                                                         |         |
-|      | Oliver, Mary             |                      | A Poetry Handbook                                                                       |         |
-|      | Rilke, Rainer Maria      |  Reginald Snell      | Letters to a Young Poet                                                                 | ✔       |
 
 ## Non-fiction (poetry/essays/memoirs/autobiographies)
 
@@ -173,9 +171,11 @@ Books I'd potentially like to acquire.
 | ---- | ------------------------ | -------------------- | --------------------------------------------------------------------------------------- | ------- |
 |      | Όμηρος                   |                      | Ομήρου Ιλιάδα                                                                           |         |
 |      | Όμηρος                   |                      | Ομήρου Οδύσσεια                                                                         |         |
+|      | Πολυδούρη, Μαρία         |                      | Ηχώ στο Χάος (1929)                                                                     | ✔       |
 
 ## Other items to sort out
 
+* Νίκος Καζατζάκης
 * Franz Kafka (https://en.wikipedia.org/wiki/Franz_Kafka_bibliography)
 * The gender games
 * Stay in your lane?
