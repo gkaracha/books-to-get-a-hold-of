@@ -12,8 +12,6 @@ Books I'd potentially like to acquire.
 |      | Dockrill, Laura          |                      | Lorali                                                                                  |         |
 |      | Dunthorne, Joe           |                      | The Adulterants                                                                         |         |
 |      | Extence, Gavin           |                      | The End of Time                                                                         |         |
-|      | Flynn, Gillian           |                      | Gone Girl                                                                               |         |
-|      | Gaiman, Neil             |                      | Coraline                                                                                |         |
 |      | Hamid, Mohsin            |                      | The Reluctant Fundamentalist                                                            |         |
 |      | Hanff, Helene            |                      | 84, Charing Cross Road                                                                  |         |
 |      | Heti, Sheila             |                      | How Should a Person Be?                                                                 |         |
@@ -21,7 +19,6 @@ Books I'd potentially like to acquire.
 |      | Homer                    |                      | The Iliad                                                                               |         |
 |      | Homer                    |                      | The Odyssey                                                                             |         |
 |      | Hosseini, Khaled         |                      | The Kite Runner                                                                         |         |
-|      | Huxley, Aldous           |                      | Brave New World                                                                         |         |
 |      | Huxley, Aldous           |                      | Island                                                                                  |         |
 |      | Kingsolver, Barbara      |                      | The Lacuna                                                                              |         |
 |      | Kingsolver, Barbara      |                      | The Poisonwood Bible                                                                    |         |
