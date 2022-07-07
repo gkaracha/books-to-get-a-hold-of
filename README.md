@@ -45,7 +45,7 @@ Books I'd potentially like to acquire.
 |      | Saramago, José           |                      | Blindness                                                                               | ✔ (CW)  |
 |      | Shafak, Elif             |                      | Three Daughters of Eve                                                                  |         |
 |      | Sheers, Owen             |                      | Resistance                                                                              |         |
-|      | Silverstein, Shel        |                      | The Giving Tree                                                                         |         |
+|      | Silverstein, Shel        |                      | The Giving Tree                                                                         | ✔       |
 |      | Snicket, Lemony          |                      | A Series of Unfortunate Events                                                          | ✔       |
 |      | Snicket, Lemony          |                      | The Bad Beginning (A Series of Unfortunate Events #1) |                                 |         |
 |      | Stephenson, Neal         |                      | Anathem                                                                                 |         |
