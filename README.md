@@ -48,7 +48,6 @@ Books I'd potentially like to acquire.
 |      | Sheers, Owen             |                      | Resistance                                                                              |         |
 |      | Silverstein, Shel        |                      | The Giving Tree                                                                         | ✔       |
 |      | Snicket, Lemony          |                      | A Series of Unfortunate Events                                                          | ✔       |
-|      | Snicket, Lemony          |                      | The Bad Beginning (A Series of Unfortunate Events #1) |                                 |         |
 |      | Stephenson, Neal         |                      | Anathem                                                                                 |         |
 |      | Strugatsky, Boris & Strugatsky, Arkady |        | Monday Starts on Saturday                                                               |         |
 |      | Tan, Shaun               |                      | Tales from Outer Suburbia                                                               |         |
