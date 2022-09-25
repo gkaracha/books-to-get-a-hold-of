@@ -10,6 +10,7 @@ Books I'd potentially like to acquire.
 |      | Clarke, Arthur C.        |                      | Rendezvous with Rama (Rama, #1)                                                         |         |
 |      | Cusk, Rachel             |                      | Outline                                                                                 |         |
 |      | Dockrill, Laura          |                      | Lorali                                                                                  |         |
+|      | Dunn, Mark               |                      | Ella Minnow Pea                                                                         | ✔       |
 |      | Dunthorne, Joe           |                      | The Adulterants                                                                         |         |
 |      | Extence, Gavin           |                      | The End of Time                                                                         |         |
 |      | Hamid, Mohsin            |                      | The Reluctant Fundamentalist                                                            |         |
@@ -88,7 +89,6 @@ Books I'd potentially like to acquire.
 |      | Camus, Albert            |                      | A Happy Death                                                                           | ✔       |
 |      | Ishiguro, Kazuo          |                      | A Pale View of Hills                                                                    | ✔       |
 |      | Joseph, Manu             |                      | The Illicit Happiness of Other People                                                   | ✔       |
-|      | Mandel, Emily St. John   |                      | Station Eleven                                                                          | ✔       |
 |      | Mathers, E. Powys        |                      | Cain's Jawbone                                                                          |         |
 |      | Morrison, Toni           |                      | Sula                                                                                    | ✔       |
 |      | Paull, Laline            |                      | The Bees                                                                                | ✔       |
@@ -103,7 +103,6 @@ Books I'd potentially like to acquire.
 |      | Hughes, Langston         |                      | I, Too, Am America                                                                      | ✔       |
 |      | Oida, Yoshi              |                      | The Invisible Actor                                                                     |         |
 |      | Tolkien, J.R.R.          |                      | The Adventures of Tom Bombadil                                                          | ✔       |
-|      | Zauner, Michelle         |                      | Crying in H Mart                                                                        | ✔       |
 
 ## On the Way
 
